@@ -1,0 +1,28 @@
+h2 {
+    color:aqua
+}
+table {
+    background-color: tan;
+}
+.oldest {
+    color: red; font-style: italic;
+}
+#newest {
+    color: blue; font-style: italic;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    border: 2px solid #bb1111;
+}
+
+th, td {
+    border: 2px solid #14e214;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #376b99;
+}
